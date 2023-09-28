@@ -1,7 +1,9 @@
 # Data Analysis of best selling books dataset
 I performed a comprehensive data analysis of the _best-selling books_ dataset (a dataset from Kaggle) to extract meaningful insights and inform data-driven decisions. Sharing insights derived from the data analysis:
 
-**Tools used**: Jupyter Notebook and Markdown
+**Tools used**: 
+* Jupyter Notebook (Code and Markdown)
+* Draw.io (To create flowchart)
 ## Summary of the project
 * **Data cleaning**: Performed data cleaning, handling missing values, and addressing data anomalies to prepare the dataset for analysis. 
 * **Exploratory Data Analysis (EDA)**:
