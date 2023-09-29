@@ -18,11 +18,11 @@ I performed a comprehensive data analysis of the _best-selling books_ dataset (a
 * **Visualization**: Used data visualization techniques, such as bar charts, histograms, scatter plots, and pie charts, to present findings effectively.
 ## Python functions and features
 I used the following Python functions and features for data analysis:
-* **Pandas**: Used for data manipulation and cleaning. The key functions include `read_csv` (for loading the dataset), `head` (for viewing the first few rows), and functions for filtering, aggregating, and transforming data.
-* **NumPy**: Used for calculations and statistical analysis of the data.
-* **Matplotlib and Seaborn**: Used for data visualization. Created various types of plots, such as bar charts, histograms, scatter plots, pie charts, and line charts to visualize trends and patterns in the data.
-* **Regular Expressions (re module)**: Used for removing multiple random characters from book titles. 
-* **Apply Functions (Pandas)**: Used for applying custom functions to the Book column.
-* **GroupBy (Pandas)**: Used for aggregating and summarizing data, such as finding the total sales per genre or author.
+* **Pandas**:For data manipulation and cleaning. The key functions include `read_csv` (for loading the dataset), `head` (for viewing the first few rows), and functions for filtering, aggregating, and transforming data.
+* **NumPy**: For calculations and statistical analysis of the data.
+* **Matplotlib and Seaborn**: For data visualization. Created various types of plots, such as bar charts, histograms, scatter plots, pie charts, and line charts to visualize trends and patterns in the data.
+* **Regular Expressions (re module)**:For removing multiple random characters from book titles. 
+* **Apply Functions (Pandas)**:For applying custom functions to the Book column.
+* **GroupBy (Pandas)**: For aggregating and summarizing data, such as finding the total sales per genre or author.
 
 
