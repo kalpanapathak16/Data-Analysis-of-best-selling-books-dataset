@@ -24,5 +24,8 @@ I used the following Python functions and features for data analysis:
 * **Regular Expressions (re module)**: For removing multiple random characters from book titles. 
 * **Apply Functions (Pandas)**: For applying custom functions to the Book column.
 * **GroupBy (Pandas)**: For aggregating and summarizing data, such as finding the total sales per genre or author.
+## Documentation 
+I used technical writing principles to document data analysis steps and explain the project workflow.  
+* **Code documentation**: Explained the Python code so that others can reproduce and use the code when creating a data-analysis project. I included comments at relevant points within the code to clarify the rationale behind the logic.
 
 
